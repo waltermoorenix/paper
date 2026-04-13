@@ -1,3 +1,4 @@
+```mermaid
 graph LR
     A[Partilha de dados pessoais] --> B[Aumento da visibilidade online]
     B --> C[Exposição de rotinas e contactos]
@@ -9,3 +10,6 @@ graph LR
     style C fill:#75bce4,color:#fff,stroke:#fff
     style D fill:#8bc9e5,color:#fff,stroke:#fff
     style E fill:#e74c3c,color:#fff,stroke:#fff
+
+
+    
